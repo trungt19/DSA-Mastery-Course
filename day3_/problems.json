@@ -1,0 +1,5 @@
+[
+  { "day": 1,  "id": 1,   "slug": "two-sum", "title": "Two Sum", "pattern": "HashMap / Complement Search" },
+  { "day": 2,  "id": 121, "slug": "best-time-to-buy-and-sell-stock", "title": "Best Time to Buy Stock", "pattern": "Kadane / Running Min" },
+  { "day": 3,  "id": 217, "slug": "contains-duplicate", "title": "Contains Duplicate", "pattern": "HashSet / Uniqueness Check" }
+]

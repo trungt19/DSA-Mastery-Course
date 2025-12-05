@@ -1,0 +1,14 @@
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/bin/Debug/net8.0/Day3App
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/bin/Debug/net8.0/Day3App.deps.json
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/bin/Debug/net8.0/Day3App.runtimeconfig.json
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/bin/Debug/net8.0/Day3App.dll
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/bin/Debug/net8.0/Day3App.pdb
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/obj/Debug/net8.0/Day3App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/obj/Debug/net8.0/Day3App.AssemblyInfoInputs.cache
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/obj/Debug/net8.0/Day3App.AssemblyInfo.cs
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/obj/Debug/net8.0/Day3App.csproj.CoreCompileInputs.cache
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/obj/Debug/net8.0/Day3App.dll
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/obj/Debug/net8.0/refint/Day3App.dll
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/obj/Debug/net8.0/Day3App.pdb
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/obj/Debug/net8.0/Day3App.genruntimeconfig.cache
+/Users/trungthai/Desktop/DSA/day3_contains-duplicate/Day3App/obj/Debug/net8.0/ref/Day3App.dll
